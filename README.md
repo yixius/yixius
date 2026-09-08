@@ -24,6 +24,9 @@
 
 遇到问题，先看代码、日志和指标，再下结论。把重复做的事情写成工具，把解决过的问题整理成文档。
 
----
+## 联系方式
+
+- 邮箱：[yixiubat@gmail.com](mailto:yixiubat@gmail.com)
+- 微信：`hmyixiu`
 
 欢迎交流 Redis、后端开发和 AI 工具的实践。
